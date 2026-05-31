@@ -1,0 +1,2 @@
+# Taller-12-POO
+En este repositorio se encuentran todos los ejercicios y clases del taller 12 de POO 
